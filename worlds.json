@@ -1,0 +1,5 @@
+{
+    "worlds": ["malmo.py"],
+    "worldadapters": ["malmo.py"],
+    "dependencies": []
+}

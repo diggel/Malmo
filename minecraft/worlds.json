@@ -1,0 +1,4 @@
+{
+    "worlds": ["minecraft.py"],
+    "worldadapters": ["minecraft.py", "minecraft_graph_locomotion.py", "minecraft_histogram_vision.py"]
+}
